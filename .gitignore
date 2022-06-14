@@ -1,0 +1,9 @@
+*
+!.gitignore
+!JXP4.module
+!JXP4_LICENSE.txt
+!JXP4_README.md
+
+!*/
+
+!JXP4/Locale/English/*.ucs

@@ -1,0 +1,13 @@
+[global]
+
+UIName = $30000000
+Description = Jessie Kirk's expansion pack project.
+DllName = WXPMod
+ModFolder = JXP3
+ModVersion = 0.1.0
+Playable = 1
+
+DataFolder.1 = Data
+
+RequiredMod.1 = DXP2
+RequiredMod.2 = W40k
