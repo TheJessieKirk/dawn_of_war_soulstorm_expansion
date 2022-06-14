@@ -1,9 +1,9 @@
 [global]
 
-UIName = $30000000
+UIName = $40000000
 Description = Jessie Kirk's expansion pack project.
 DllName = WXPMod
-ModFolder = JXP3
+ModFolder = JXP4
 ModVersion = 0.1.0
 Playable = 1
 
