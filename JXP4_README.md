@@ -1,4 +1,4 @@
-# Dawn of War: Dark Crusade Expansion
+# Dawn of War: Soulstorm Expansion
 
 ## 0. Legal
 Copyright © 2022 Jessie Kirk.
